@@ -71,9 +71,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 • Anvil framework
 
-## Appendix
-
-Link for youtube video regarding description of the project : https://youtu.be/FlFcm2X-zgE
 
 
 
